@@ -1,7 +1,7 @@
 Demo repo for stackoverflow question 
 http://stackoverflow.com/questions/37597528/execution-order-of-maven-profile-task-and-goal-differs-on-version-3-3-9-and-3-2
 
-Run command ```mvn clean validate``` using maven verison :
+Run command ```mvn clean validate -X``` using maven verison :
 
  * 3.2.5
 
